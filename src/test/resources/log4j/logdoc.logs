@@ -1,0 +1,1214 @@
+2019-11-08 11:11:11 INFO  LogReporter:23 - STEP 1: 
+2019-11-08 11:14:31 INFO  LogReporter:23 - STEP 1: 
+2019-11-08 11:14:31 INFO  LogReporter:23 - STEP 2:
+2019-11-08 11:14:31 INFO  LogReporter:23 - STEP 3:
+2019-11-08 11:14:31 INFO  LogReporter:23 - STEP 4:
+2019-11-08 11:14:31 INFO  LogReporter:23 - STEP 5:
+2019-11-08 11:14:31 INFO  LogReporter:23 - STEP 6:
+2019-11-08 11:14:31 INFO  LogReporter:23 - STEP 7:
+2019-11-08 11:14:31 INFO  LogReporter:23 - STEP 8:
+2019-11-08 11:14:31 INFO  LogReporter:23 - STEP 9:
+2019-11-08 11:14:31 INFO  LogReporter:23 - STEP 10:
+2019-11-08 11:14:31 INFO  LogReporter:23 - STEP 11:
+2019-11-08 11:14:32 INFO  LogReporter:23 - STEP 12:
+2019-11-08 11:14:32 INFO  LogReporter:23 - STEP 13:
+2019-11-08 11:14:32 INFO  LogReporter:23 - STEP 14:
+2019-11-08 11:14:32 INFO  LogReporter:23 - STEP 15:
+2019-11-08 11:14:32 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 11:14:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 11:14:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 11:14:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 11:14:32 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 12:28:40 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 12:28:44 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 12:28:45 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 12:28:45 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 12:28:45 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 12:30:07 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 12:30:13 INFO  LogReporter:23 - STEP 6:
+2019-11-08 12:30:18 INFO  LogReporter:23 - STEP 7:
+2019-11-08 12:30:19 INFO  LogReporter:23 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-08 12:30:19 INFO  LogReporter:23 - STEP 8:
+2019-11-08 12:30:19 INFO  LogReporter:23 - Actual Value :123.20 and Expected :123.20 is validated successfully
+2019-11-08 12:30:19 INFO  LogReporter:23 - STEP 9:
+2019-11-08 12:30:20 INFO  LogReporter:23 - Actual Value :In St not match with the Expected value : In Stock
+2019-11-08 12:30:20 INFO  LogReporter:23 - STEP 10:
+2019-11-08 12:30:20 INFO  LogReporter:23 - STEP 11:
+2019-11-08 12:30:20 INFO  LogReporter:23 - STEP 12:
+2019-11-08 12:30:20 INFO  LogReporter:23 - STEP 12:
+2019-11-08 12:30:20 INFO  LogReporter:23 - STEP 13:
+2019-11-08 12:30:20 INFO  LogReporter:23 - STEP 14:
+2019-11-08 12:30:20 INFO  LogReporter:23 - STEP 15:
+2019-11-08 12:30:21 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 12:30:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 12:30:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 12:30:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 12:30:21 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 12:33:05 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 12:33:08 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 12:33:10 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 12:33:10 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 12:33:10 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 12:34:32 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 12:34:34 INFO  LogReporter:23 - STEP 6:
+2019-11-08 12:34:36 INFO  LogReporter:23 - STEP 7:
+2019-11-08 12:35:26 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 12:35:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 12:35:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 12:35:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 12:35:26 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 12:37:40 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 12:37:44 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 12:37:45 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 12:37:45 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 12:37:45 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 12:37:46 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 12:37:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 12:37:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 12:37:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 12:37:46 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 12:41:03 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 12:41:07 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 12:41:08 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 12:41:08 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 12:41:08 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 12:41:09 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 12:41:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 12:41:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 12:41:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 12:41:09 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 12:42:53 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 12:42:57 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 12:42:58 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 12:42:58 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 12:42:58 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 12:42:59 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 12:42:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 12:42:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 12:42:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 12:42:59 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 12:45:08 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 12:45:12 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 12:45:13 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 12:45:34 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 12:45:38 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 12:45:39 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 12:45:39 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 12:45:39 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 12:45:39 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 12:46:13 INFO  LogReporter:23 - STEP 6:
+2019-11-08 12:46:15 INFO  LogReporter:23 - STEP 7:
+2019-11-08 12:46:18 INFO  LogReporter:23 - Actual Value : 600 not match with the Expected value : In Stock
+2019-11-08 12:46:18 INFO  LogReporter:23 - STEP 8:
+2019-11-08 12:46:18 INFO  LogReporter:23 - Actual Value :602.00 not match with the Expected value :123.20
+2019-11-08 12:46:18 INFO  LogReporter:23 - STEP 9:
+2019-11-08 12:46:20 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 12:46:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 12:46:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 12:46:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 12:46:20 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 12:49:14 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 12:49:18 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 12:49:19 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 12:49:19 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 12:49:19 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 12:49:19 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 12:49:54 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 12:49:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 12:49:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 12:49:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 12:49:54 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 12:52:38 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 12:52:42 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 12:52:43 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 12:52:43 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 12:52:43 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 12:52:43 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 12:53:18 INFO  LogReporter:23 - STEP 6:
+2019-11-08 12:53:22 INFO  LogReporter:23 - STEP 7:
+2019-11-08 12:53:22 INFO  LogReporter:23 - Actual Value : 600 not match with the Expected value : In Stock
+2019-11-08 12:53:22 INFO  LogReporter:23 - STEP 8:
+2019-11-08 12:53:23 INFO  LogReporter:23 - Actual Value :602.00 not match with the Expected value :123.20
+2019-11-08 12:53:23 INFO  LogReporter:23 - STEP 9:
+2019-11-08 12:53:24 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 12:53:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 12:53:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 12:53:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 12:53:24 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 12:55:49 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 12:55:52 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 12:55:53 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 12:55:53 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 12:55:53 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 12:55:53 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 12:56:28 INFO  LogReporter:23 - STEP 6:
+2019-11-08 12:56:30 INFO  LogReporter:23 - STEP 7:
+2019-11-08 12:57:11 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 12:57:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 12:57:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 12:57:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 12:57:11 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 12:57:22 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 12:57:26 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 12:57:27 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 12:57:27 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 12:57:27 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 12:57:27 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 12:58:02 INFO  LogReporter:23 - STEP 6:
+2019-11-08 12:58:06 INFO  LogReporter:23 - STEP 7:
+2019-11-08 12:58:07 INFO  LogReporter:23 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-08 12:58:07 INFO  LogReporter:23 - STEP 8:
+2019-11-08 12:58:07 INFO  LogReporter:23 - Actual Value :123.20 and Expected :123.20 is validated successfully
+2019-11-08 12:58:07 INFO  LogReporter:23 - STEP 9:
+2019-11-08 12:58:08 INFO  LogReporter:23 - Actual Value :In St not match with the Expected value : In Stock
+2019-11-08 12:58:08 INFO  LogReporter:23 - STEP 10:
+2019-11-08 12:58:08 INFO  LogReporter:23 - STEP 11:
+2019-11-08 12:58:08 INFO  LogReporter:23 - STEP 12:
+2019-11-08 12:58:08 INFO  LogReporter:23 - STEP 12:
+2019-11-08 12:58:08 INFO  LogReporter:23 - STEP 13:
+2019-11-08 12:58:08 INFO  LogReporter:23 - STEP 14:
+2019-11-08 12:58:08 INFO  LogReporter:23 - STEP 15:
+2019-11-08 12:58:09 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 12:58:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 12:58:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 12:58:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 12:58:09 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 13:00:12 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 13:00:15 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 13:00:16 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 13:00:16 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 13:00:16 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 13:00:16 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 13:00:51 INFO  LogReporter:23 - STEP 6:
+2019-11-08 13:00:56 INFO  LogReporter:23 - STEP 7:
+2019-11-08 13:00:57 INFO  LogReporter:23 - Actual Value : 600 not match with the Expected value : In Stock
+2019-11-08 13:00:57 INFO  LogReporter:23 - STEP 8:
+2019-11-08 13:00:57 INFO  LogReporter:23 - Actual Value :602.00 not match with the Expected value :123.20
+2019-11-08 13:00:57 INFO  LogReporter:23 - STEP 9:
+2019-11-08 13:00:59 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 13:00:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 13:00:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 13:00:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 13:00:59 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 13:03:27 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 13:03:31 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 13:03:32 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 13:03:32 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 13:03:32 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 13:03:32 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 13:04:07 INFO  LogReporter:23 - STEP 6:
+2019-11-08 13:04:08 INFO  LogReporter:23 - STEP 7:
+2019-11-08 13:04:39 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 13:04:39 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 13:04:39 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 13:04:39 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 13:04:39 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 13:05:28 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 13:05:31 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 13:05:32 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 13:05:32 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 13:05:32 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 13:05:32 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 13:05:35 INFO  LogReporter:23 - STEP 6:
+2019-11-08 13:05:36 INFO  LogReporter:23 - STEP 7:
+2019-11-08 13:06:08 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 13:06:08 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 13:06:08 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 13:06:08 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 13:06:08 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 13:06:45 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 13:06:49 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 13:06:50 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 13:06:50 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 13:06:50 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 13:06:50 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 13:06:53 INFO  LogReporter:23 - STEP 6:
+2019-11-08 13:06:58 INFO  LogReporter:23 - STEP 7:
+2019-11-08 13:06:58 INFO  LogReporter:23 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-08 13:06:58 INFO  LogReporter:23 - STEP 8:
+2019-11-08 13:06:59 INFO  LogReporter:23 - Actual Value :123.20 and Expected :123.20 is validated successfully
+2019-11-08 13:06:59 INFO  LogReporter:23 - STEP 9:
+2019-11-08 13:06:59 INFO  LogReporter:23 - Actual Value :In St not match with the Expected value : In Stock
+2019-11-08 13:06:59 INFO  LogReporter:23 - STEP 10:
+2019-11-08 13:06:59 INFO  LogReporter:23 - STEP 11:
+2019-11-08 13:06:59 INFO  LogReporter:23 - STEP 12:
+2019-11-08 13:06:59 INFO  LogReporter:23 - STEP 12:
+2019-11-08 13:06:59 INFO  LogReporter:23 - STEP 13:
+2019-11-08 13:06:59 INFO  LogReporter:23 - STEP 14:
+2019-11-08 13:06:59 INFO  LogReporter:23 - STEP 15:
+2019-11-08 13:07:00 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 13:07:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 13:07:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 13:07:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 13:07:00 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 13:08:20 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 13:08:24 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 13:08:25 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 13:08:25 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 13:08:25 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 13:08:25 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 13:08:28 INFO  LogReporter:23 - STEP 6:
+2019-11-08 13:08:30 INFO  LogReporter:23 - STEP 7:
+2019-11-08 13:08:33 INFO  LogReporter:23 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-08 13:08:33 INFO  LogReporter:23 - STEP 8:
+2019-11-08 13:08:33 INFO  LogReporter:23 - Actual Value :123.20 and Expected :123.20 is validated successfully
+2019-11-08 13:08:33 INFO  LogReporter:23 - STEP 9:
+2019-11-08 13:08:35 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 13:08:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 13:08:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 13:08:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 13:08:35 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 13:19:40 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 13:19:44 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 13:19:45 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 13:19:45 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 13:19:45 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 13:19:45 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 13:19:48 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 13:19:53 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 13:19:53 INFO  LogReporter:23 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-08 13:19:53 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-08 13:19:54 INFO  LogReporter:23 - Actual Value :123.20 and Expected :123.20 is validated successfully
+2019-11-08 13:19:54 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-08 13:19:54 INFO  LogReporter:23 - Actual Value :$101. not match with the Expected value :101.00
+2019-11-08 13:19:54 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-08 13:19:54 INFO  LogReporter:23 - STEP 11:
+2019-11-08 13:19:54 INFO  LogReporter:23 - STEP 12:
+2019-11-08 13:19:54 INFO  LogReporter:23 - STEP 12:
+2019-11-08 13:19:54 INFO  LogReporter:23 - STEP 13:
+2019-11-08 13:19:54 INFO  LogReporter:23 - STEP 14:
+2019-11-08 13:19:54 INFO  LogReporter:23 - STEP 15:
+2019-11-08 13:19:55 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 13:19:55 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 13:19:55 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 13:19:55 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 13:19:55 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 13:22:36 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 13:22:40 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 13:22:41 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 13:22:41 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 13:22:41 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 13:22:41 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 13:22:44 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 13:22:49 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 13:22:49 INFO  LogReporter:23 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-08 13:22:49 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-08 13:22:50 INFO  LogReporter:23 - Actual Value :123.20 and Expected :123.20 is validated successfully
+2019-11-08 13:22:50 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-08 13:22:50 INFO  LogReporter:23 - Actual Value :$101. not match with the Expected value :101.00
+2019-11-08 13:22:50 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-08 13:22:50 INFO  LogReporter:23 - Actual Value :$101. not match with the Expected value :null
+2019-11-08 13:22:50 INFO  LogReporter:23 - STEP 11:
+2019-11-08 13:22:50 INFO  LogReporter:23 - STEP 12:
+2019-11-08 13:22:50 INFO  LogReporter:23 - STEP 12:
+2019-11-08 13:22:50 INFO  LogReporter:23 - STEP 13:
+2019-11-08 13:22:50 INFO  LogReporter:23 - STEP 14:
+2019-11-08 13:22:50 INFO  LogReporter:23 - STEP 15:
+2019-11-08 13:22:51 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 13:22:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 13:22:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 13:22:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 13:22:51 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 13:25:30 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 13:25:34 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 13:25:35 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 13:25:35 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 13:25:35 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 13:25:35 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 13:25:38 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 13:25:43 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 13:25:43 INFO  LogReporter:23 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-08 13:25:43 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-08 13:25:44 INFO  LogReporter:23 - Actual Value :123.20 and Expected :123.20 is validated successfully
+2019-11-08 13:25:44 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-08 13:25:44 INFO  LogReporter:23 - Actual Value :$101. not match with the Expected value :101.00
+2019-11-08 13:25:44 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-08 13:25:45 INFO  LogReporter:23 - Actual Value :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. not match with the Expected value :
+ iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-08 13:25:45 INFO  LogReporter:23 - STEP 11:
+2019-11-08 13:25:45 INFO  LogReporter:23 - STEP 12:
+2019-11-08 13:25:45 INFO  LogReporter:23 - STEP 12:
+2019-11-08 13:25:45 INFO  LogReporter:23 - STEP 13:
+2019-11-08 13:25:45 INFO  LogReporter:23 - STEP 14:
+2019-11-08 13:25:45 INFO  LogReporter:23 - STEP 15:
+2019-11-08 13:25:46 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 13:25:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 13:25:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 13:25:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 13:25:46 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 13:28:16 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 13:28:20 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 13:28:21 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 13:28:21 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 13:28:21 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 13:28:21 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 13:28:24 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 13:28:29 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 13:28:30 INFO  LogReporter:23 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-08 13:28:30 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-08 13:28:30 INFO  LogReporter:23 - Actual Value :123.20 and Expected :123.20 is validated successfully
+2019-11-08 13:28:30 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-08 13:28:30 INFO  LogReporter:23 - Actual Value :$101. not match with the Expected value :101.00
+2019-11-08 13:28:30 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-08 13:28:31 INFO  LogReporter:23 - Actual Value :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. not match with the Expected value :
+ iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-08 13:28:31 INFO  LogReporter:23 - STEP 11:
+2019-11-08 13:28:32 INFO  LogReporter:23 - STEP 12:
+2019-11-08 13:28:32 INFO  LogReporter:23 - STEP 12:
+2019-11-08 13:28:32 INFO  LogReporter:23 - STEP 13:
+2019-11-08 13:28:32 INFO  LogReporter:23 - STEP 14:
+2019-11-08 13:28:32 INFO  LogReporter:23 - STEP 15:
+2019-11-08 13:28:33 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 13:28:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 13:28:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 13:28:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 13:28:33 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 13:30:54 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 13:30:58 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 13:30:59 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 13:30:59 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 13:30:59 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 13:30:59 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 13:31:02 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 13:31:06 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 13:31:06 INFO  LogReporter:23 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-08 13:31:06 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-08 13:31:07 INFO  LogReporter:23 - Actual Value :123.20 and Expected :123.20 is validated successfully
+2019-11-08 13:31:07 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-08 13:31:07 INFO  LogReporter:23 - Actual Value :101. not match with the Expected value :101.00
+2019-11-08 13:31:07 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-08 13:31:08 INFO  LogReporter:23 - Actual Value :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. not match with the Expected value :
+ iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-08 13:31:08 INFO  LogReporter:23 - STEP 11: Change the Quantity
+2019-11-08 13:31:09 INFO  LogReporter:23 - STEP 12: Click Add to Cart Button
+2019-11-08 13:31:11 INFO  LogReporter:23 - STEP 12:
+2019-11-08 13:31:11 INFO  LogReporter:23 - STEP 13:
+2019-11-08 13:31:11 INFO  LogReporter:23 - STEP 14:
+2019-11-08 13:31:11 INFO  LogReporter:23 - STEP 15:
+2019-11-08 13:31:12 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 13:31:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 13:31:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 13:31:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 13:31:12 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 13:32:14 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 13:32:18 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 13:32:19 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 13:32:19 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 13:32:19 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 13:32:19 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 13:32:22 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 13:32:27 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 13:32:27 INFO  LogReporter:23 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-08 13:32:27 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-08 13:32:27 INFO  LogReporter:23 - Actual Value :123.20 and Expected :123.20 is validated successfully
+2019-11-08 13:32:27 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-08 13:32:28 INFO  LogReporter:23 - Actual Value :101. not match with the Expected value :101.00
+2019-11-08 13:32:28 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-08 13:32:28 INFO  LogReporter:23 - Actual Value :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. not match with the Expected value :
+ iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-08 13:32:28 INFO  LogReporter:23 - STEP 11: Change the Quantity
+2019-11-08 13:32:30 INFO  LogReporter:23 - STEP 12: Click Add to Cart Button
+2019-11-08 13:32:34 INFO  LogReporter:23 - STEP 12:
+2019-11-08 13:32:34 INFO  LogReporter:23 - STEP 13:
+2019-11-08 13:32:34 INFO  LogReporter:23 - STEP 14:
+2019-11-08 13:32:34 INFO  LogReporter:23 - STEP 15:
+2019-11-08 13:32:35 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 13:32:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 13:32:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 13:32:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 13:32:35 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 13:38:02 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 13:38:05 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 13:38:06 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 13:38:06 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 13:38:06 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 13:38:06 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 13:38:09 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 13:38:14 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 13:38:15 INFO  LogReporter:23 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-08 13:38:15 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-08 13:38:15 INFO  LogReporter:23 - Actual Value :123.20 and Expected :123.20 is validated successfully
+2019-11-08 13:38:15 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-08 13:38:15 INFO  LogReporter:23 - Actual Value :101. not match with the Expected value :101.00
+2019-11-08 13:38:15 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-08 13:38:16 INFO  LogReporter:23 - Actual Value :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. not match with the Expected value :
+ iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-08 13:38:16 INFO  LogReporter:23 - STEP 11: Change the Quantity
+2019-11-08 13:38:18 INFO  LogReporter:23 - STEP 12: Click Add to Cart Button
+2019-11-08 13:38:19 INFO  LogReporter:23 - STEP 12:
+2019-11-08 13:38:20 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 13:38:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 13:38:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 13:38:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 13:38:20 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 13:39:04 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 13:39:08 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 13:39:09 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 13:39:09 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 13:39:09 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 13:39:09 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 13:39:12 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 13:39:16 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 13:39:17 INFO  LogReporter:23 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-08 13:39:17 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-08 13:39:17 INFO  LogReporter:23 - Actual Value :123.20 and Expected :123.20 is validated successfully
+2019-11-08 13:39:17 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-08 13:39:17 INFO  LogReporter:23 - Actual Value :101. not match with the Expected value :101.00
+2019-11-08 13:39:17 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-08 13:39:18 INFO  LogReporter:23 - Actual Value :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. not match with the Expected value :
+ iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-08 13:39:18 INFO  LogReporter:23 - STEP 11: Change the Quantity
+2019-11-08 13:39:20 INFO  LogReporter:23 - STEP 12: Click Add to Cart Button
+2019-11-08 13:39:21 INFO  LogReporter:23 - STEP 12:
+2019-11-08 13:39:22 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 13:39:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 13:39:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 13:39:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 13:39:22 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 13:41:09 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 13:41:13 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 13:41:14 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 13:41:14 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 13:41:14 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 13:41:14 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 13:41:18 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 13:41:22 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 13:41:23 INFO  LogReporter:23 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-08 13:41:23 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-08 13:41:23 INFO  LogReporter:23 - Actual Value :123.20 and Expected :123.20 is validated successfully
+2019-11-08 13:41:23 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-08 13:41:23 INFO  LogReporter:23 - Actual Value :101. not match with the Expected value :101.00
+2019-11-08 13:41:23 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-08 13:41:24 INFO  LogReporter:23 - Actual Value :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. not match with the Expected value :
+ iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-08 13:41:24 INFO  LogReporter:23 - STEP 11: Change the Quantity
+2019-11-08 13:41:26 INFO  LogReporter:23 - STEP 12: Click Add to Cart Button
+2019-11-08 13:41:27 INFO  LogReporter:23 - STEP 12:
+2019-11-08 13:41:28 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 13:41:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 13:41:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 13:41:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 13:41:28 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 13:44:19 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 13:44:23 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 13:44:24 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 13:44:24 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 13:44:24 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 13:44:24 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 13:44:27 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 13:44:29 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 13:44:32 INFO  LogReporter:23 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-08 13:44:32 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-08 13:44:32 INFO  LogReporter:23 - Actual Value :123.20 and Expected :123.20 is validated successfully
+2019-11-08 13:44:32 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-08 13:44:33 INFO  LogReporter:23 - Actual Value :101. not match with the Expected value :101.00
+2019-11-08 13:44:33 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-08 13:44:33 INFO  LogReporter:23 - Actual Value :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. not match with the Expected value :
+ iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-08 13:44:33 INFO  LogReporter:23 - STEP 11: Change the Quantity
+2019-11-08 13:44:35 INFO  LogReporter:23 - STEP 12: Click Add to Cart Button
+2019-11-08 13:44:36 INFO  LogReporter:23 - STEP 12:
+2019-11-08 13:44:37 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 13:44:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 13:44:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 13:44:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 13:44:37 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 13:48:52 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 13:48:55 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 13:48:57 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 13:48:57 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 13:56:23 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 13:56:27 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 13:56:28 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 13:56:28 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 13:56:28 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 13:56:28 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 13:56:31 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 13:56:33 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 13:56:36 INFO  LogReporter:23 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-08 13:56:36 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-08 13:56:37 INFO  LogReporter:23 - Actual Value :123.20 and Expected :123.20 is validated successfully
+2019-11-08 13:56:37 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-08 13:56:37 INFO  LogReporter:23 - Actual Value :101. not match with the Expected value :101.00
+2019-11-08 13:56:37 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-08 13:56:37 INFO  LogReporter:23 - Actual Value :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. not match with the Expected value :
+ iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-08 13:56:37 INFO  LogReporter:23 - STEP 11: Change the Quantity
+2019-11-08 13:56:40 INFO  LogReporter:23 - STEP 12: Click Add to Cart Button
+2019-11-08 13:56:40 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 13:56:43 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 13:57:14 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 13:57:45 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 13:57:45 INFO  LogReporter:23 - Document title is not match with Expected :Search - iphonemac book
+2019-11-08 13:57:45 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 13:57:45 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 13:57:45 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 13:58:46 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 13:58:58 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 13:59:01 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 13:59:02 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 13:59:02 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 13:59:02 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 13:59:02 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 13:59:06 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 13:59:10 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 13:59:10 INFO  LogReporter:23 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-08 13:59:10 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-08 13:59:11 INFO  LogReporter:23 - Actual Value :123.20 and Expected :123.20 is validated successfully
+2019-11-08 13:59:11 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-08 13:59:11 INFO  LogReporter:23 - Actual Value :101. not match with the Expected value :101.00
+2019-11-08 13:59:11 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-08 13:59:12 INFO  LogReporter:23 - Actual Value :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. not match with the Expected value :
+ iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-08 13:59:12 INFO  LogReporter:23 - STEP 11: Change the Quantity
+2019-11-08 13:59:14 INFO  LogReporter:23 - STEP 12: Click Add to Cart Button
+2019-11-08 13:59:14 INFO  LogReporter:23 - STEP 5: Searching the Productmac book
+2019-11-08 13:59:17 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 13:59:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 13:59:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 13:59:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 13:59:17 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 13:59:18 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 13:59:22 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 13:59:22 INFO  LogReporter:23 - Actual Value : 600 not match with the Expected value : In Stock
+2019-11-08 13:59:22 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-08 13:59:22 INFO  LogReporter:23 - Actual Value :602.00 and Expected :602.00 is validated successfully
+2019-11-08 13:59:22 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-08 13:59:23 INFO  LogReporter:23 - Actual Value :500. not match with the Expected value :500.00
+2019-11-08 13:59:23 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-08 13:59:23 INFO  LogReporter:23 - Actual Value :Intel Core 2 Duo processor
+Powered by an Intel Core 2 Duo processor at speeds up to 2.16GHz, the new MacBook is the fastest ever.
+1GB memory, larger hard drives
+The new MacBook now comes with 1GB of memory standard and larger hard drives for the entire line perfect for running more of your favorite applications and storing growing media collections.
+Sleek, 1.08-inch-thin design
+MacBook makes it easy to hit the road thanks to its tough polycarbonate case, built-in wireless technologies, and innovative MagSafe Power Adapter that releases automatically if someone accidentally trips on the cord.
+Built-in iSight camera
+Right out of the box, you can have a video chat with friends or family,2 record a video at your desk, or take fun pictures with Photo Booth not match with the Expected value :Intel Core 2 Duo processor
+
+Powered by an Intel Core 2 Duo processor at speeds up to 2.16GHz, the new MacBook is the fastest ever.
+
+1GB memory, larger hard drives
+
+The new MacBook now comes with 1GB of memory standard and larger hard drives for the entire line perfect for running more of your favorite applications and storing growing media collections.
+
+Sleek, 1.08-inch-thin design
+
+MacBook makes it easy to hit the road thanks to its tough polycarbonate case, built-in wireless technologies, and innovative MagSafe Power Adapter that releases automatically if someone accidentally trips on the cord.
+
+Built-in iSight camera
+
+Right out of the box, you can have a video chat with friends or family,2 record a video at your desk, or take fun pictures with Photo Booth
+2019-11-08 13:59:23 INFO  LogReporter:23 - STEP 11: Change the Quantity
+2019-11-08 13:59:25 INFO  LogReporter:23 - STEP 12: Click Add to Cart Button
+2019-11-08 13:59:26 INFO  LogReporter:23 - STEP 12:
+2019-11-08 13:59:26 INFO  LogReporter:23 - STEP 13:
+2019-11-08 13:59:26 INFO  LogReporter:23 - STEP 14:
+2019-11-08 13:59:26 INFO  LogReporter:23 - STEP 15:
+2019-11-08 13:59:26 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 13:59:26 INFO  LogReporter:23 - Document title is not match with Expected :MacBook
+2019-11-08 13:59:26 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 13:59:26 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 13:59:26 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 14:00:27 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 14:00:28 INFO  LogReporter:23 - Actual Value : 600 not match with the Expected value :null
+2019-11-08 14:00:28 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-08 14:00:28 INFO  LogReporter:23 - Actual Value :602.00 not match with the Expected value :null
+2019-11-08 14:00:28 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-08 14:00:29 INFO  LogReporter:23 - Actual Value :500. not match with the Expected value :null
+2019-11-08 14:00:29 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-08 14:00:29 INFO  LogReporter:23 - Actual Value :Intel Core 2 Duo processor
+Powered by an Intel Core 2 Duo processor at speeds up to 2.16GHz, the new MacBook is the fastest ever.
+1GB memory, larger hard drives
+The new MacBook now comes with 1GB of memory standard and larger hard drives for the entire line perfect for running more of your favorite applications and storing growing media collections.
+Sleek, 1.08-inch-thin design
+MacBook makes it easy to hit the road thanks to its tough polycarbonate case, built-in wireless technologies, and innovative MagSafe Power Adapter that releases automatically if someone accidentally trips on the cord.
+Built-in iSight camera
+Right out of the box, you can have a video chat with friends or family,2 record a video at your desk, or take fun pictures with Photo Booth not match with the Expected value :null
+2019-11-08 14:00:29 INFO  LogReporter:23 - STEP 11: Change the Quantity
+2019-11-08 14:00:30 INFO  LogReporter:23 - STEP 12: Click Add to Cart Button
+2019-11-08 14:00:31 INFO  LogReporter:23 - STEP 5: Searching the Productnull
+2019-11-08 14:00:31 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 14:01:02 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 14:01:02 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 14:01:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 14:01:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 14:01:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 14:01:03 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 14:01:17 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 14:01:21 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 14:01:22 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 14:01:22 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 14:01:22 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 14:01:22 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 14:01:25 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 14:01:29 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 14:01:30 INFO  LogReporter:23 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-08 14:01:30 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-08 14:01:30 INFO  LogReporter:23 - Actual Value :123.20 and Expected :123.20 is validated successfully
+2019-11-08 14:01:30 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-08 14:01:31 INFO  LogReporter:23 - Actual Value :101. and Expected :101. is validated successfully
+2019-11-08 14:01:31 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-08 14:01:31 INFO  LogReporter:23 - Actual Value :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. not match with the Expected value :
+ iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-08 14:01:31 INFO  LogReporter:23 - STEP 11: Change the Quantity
+2019-11-08 14:01:33 INFO  LogReporter:23 - STEP 12: Click Add to Cart Button
+2019-11-08 14:01:34 INFO  LogReporter:23 - STEP 5: Searching the Productmac book
+2019-11-08 14:01:37 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 14:01:41 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 14:01:41 INFO  LogReporter:23 - Actual Value : 600 not match with the Expected value : In Stock
+2019-11-08 14:01:41 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-08 14:01:41 INFO  LogReporter:23 - Actual Value :602.00 and Expected :602.00 is validated successfully
+2019-11-08 14:01:41 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-08 14:01:42 INFO  LogReporter:23 - Actual Value :500. and Expected :500. is validated successfully
+2019-11-08 14:01:42 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-08 14:01:42 INFO  LogReporter:23 - Actual Value :Intel Core 2 Duo processor
+Powered by an Intel Core 2 Duo processor at speeds up to 2.16GHz, the new MacBook is the fastest ever.
+1GB memory, larger hard drives
+The new MacBook now comes with 1GB of memory standard and larger hard drives for the entire line perfect for running more of your favorite applications and storing growing media collections.
+Sleek, 1.08-inch-thin design
+MacBook makes it easy to hit the road thanks to its tough polycarbonate case, built-in wireless technologies, and innovative MagSafe Power Adapter that releases automatically if someone accidentally trips on the cord.
+Built-in iSight camera
+Right out of the box, you can have a video chat with friends or family,2 record a video at your desk, or take fun pictures with Photo Booth not match with the Expected value :Intel Core 2 Duo processor
+
+Powered by an Intel Core 2 Duo processor at speeds up to 2.16GHz, the new MacBook is the fastest ever.
+
+1GB memory, larger hard drives
+
+The new MacBook now comes with 1GB of memory standard and larger hard drives for the entire line perfect for running more of your favorite applications and storing growing media collections.
+
+Sleek, 1.08-inch-thin design
+
+MacBook makes it easy to hit the road thanks to its tough polycarbonate case, built-in wireless technologies, and innovative MagSafe Power Adapter that releases automatically if someone accidentally trips on the cord.
+
+Built-in iSight camera
+
+Right out of the box, you can have a video chat with friends or family,2 record a video at your desk, or take fun pictures with Photo Booth
+2019-11-08 14:01:42 INFO  LogReporter:23 - STEP 11: Change the Quantity
+2019-11-08 14:01:44 INFO  LogReporter:23 - STEP 12: Click Add to Cart Button
+2019-11-08 14:01:45 INFO  LogReporter:23 - STEP 12:
+2019-11-08 14:01:45 INFO  LogReporter:23 - STEP 13:
+2019-11-08 14:01:45 INFO  LogReporter:23 - STEP 14:
+2019-11-08 14:01:45 INFO  LogReporter:23 - STEP 15:
+2019-11-08 14:01:45 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 14:01:45 INFO  LogReporter:23 - Document title is not match with Expected :MacBook
+2019-11-08 14:01:45 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 14:01:45 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 14:01:45 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 14:02:46 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 14:02:47 INFO  LogReporter:23 - Actual Value : 600 not match with the Expected value :null
+2019-11-08 14:02:47 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-08 14:02:47 INFO  LogReporter:23 - Actual Value :602.00 not match with the Expected value :null
+2019-11-08 14:02:47 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-08 14:02:48 INFO  LogReporter:23 - Actual Value :500. not match with the Expected value :null
+2019-11-08 14:02:48 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-08 14:02:48 INFO  LogReporter:23 - Actual Value :Intel Core 2 Duo processor
+Powered by an Intel Core 2 Duo processor at speeds up to 2.16GHz, the new MacBook is the fastest ever.
+1GB memory, larger hard drives
+The new MacBook now comes with 1GB of memory standard and larger hard drives for the entire line perfect for running more of your favorite applications and storing growing media collections.
+Sleek, 1.08-inch-thin design
+MacBook makes it easy to hit the road thanks to its tough polycarbonate case, built-in wireless technologies, and innovative MagSafe Power Adapter that releases automatically if someone accidentally trips on the cord.
+Built-in iSight camera
+Right out of the box, you can have a video chat with friends or family,2 record a video at your desk, or take fun pictures with Photo Booth not match with the Expected value :null
+2019-11-08 14:02:48 INFO  LogReporter:23 - STEP 11: Change the Quantity
+2019-11-08 14:02:50 INFO  LogReporter:23 - STEP 12: Click Add to Cart Button
+2019-11-08 14:02:51 INFO  LogReporter:23 - STEP 5: Searching the Productnull
+2019-11-08 14:02:52 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 14:03:22 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 14:03:23 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 14:03:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 14:03:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 14:03:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 14:03:23 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 14:06:15 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 14:06:18 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 14:06:20 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 14:06:20 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 14:06:20 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 14:06:20 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 14:06:23 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 14:06:54 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 14:06:54 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 14:06:55 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 14:06:55 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 14:06:55 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 14:06:55 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 14:06:55 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 14:10:52 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 14:10:56 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 14:10:57 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 14:10:57 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 14:10:57 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 14:10:57 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 14:11:00 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 14:11:04 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 14:11:05 INFO  LogReporter:23 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-08 14:11:05 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-08 14:11:05 INFO  LogReporter:23 - Actual Value :123.20 and Expected :123.20 is validated successfully
+2019-11-08 14:11:05 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-08 14:11:05 INFO  LogReporter:23 - Actual Value :101. and Expected :101. is validated successfully
+2019-11-08 14:11:05 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-08 14:11:06 INFO  LogReporter:23 - Actual Value :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. not match with the Expected value :
+ iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-08 14:11:06 INFO  LogReporter:23 - STEP 11: Change the Quantity
+2019-11-08 14:11:08 INFO  LogReporter:23 - STEP 12: Click Add to Cart Button
+2019-11-08 14:11:09 INFO  LogReporter:23 - STEP 5: Searching the Productmac book
+2019-11-08 14:11:12 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 14:11:16 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 14:11:16 INFO  LogReporter:23 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-08 14:11:16 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-08 14:11:17 INFO  LogReporter:23 - Actual Value :602.00 and Expected :602.00 is validated successfully
+2019-11-08 14:11:17 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-08 14:11:17 INFO  LogReporter:23 - Actual Value :500. and Expected :500. is validated successfully
+2019-11-08 14:11:17 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-08 14:11:18 INFO  LogReporter:23 - Actual Value :Intel Core 2 Duo processor
+Powered by an Intel Core 2 Duo processor at speeds up to 2.16GHz, the new MacBook is the fastest ever.
+1GB memory, larger hard drives
+The new MacBook now comes with 1GB of memory standard and larger hard drives for the entire line perfect for running more of your favorite applications and storing growing media collections.
+Sleek, 1.08-inch-thin design
+MacBook makes it easy to hit the road thanks to its tough polycarbonate case, built-in wireless technologies, and innovative MagSafe Power Adapter that releases automatically if someone accidentally trips on the cord.
+Built-in iSight camera
+Right out of the box, you can have a video chat with friends or family,2 record a video at your desk, or take fun pictures with Photo Booth not match with the Expected value :Intel Core 2 Duo processor
+
+Powered by an Intel Core 2 Duo processor at speeds up to 2.16GHz, the new MacBook is the fastest ever.
+
+1GB memory, larger hard drives
+
+The new MacBook now comes with 1GB of memory standard and larger hard drives for the entire line perfect for running more of your favorite applications and storing growing media collections.
+
+Sleek, 1.08-inch-thin design
+
+MacBook makes it easy to hit the road thanks to its tough polycarbonate case, built-in wireless technologies, and innovative MagSafe Power Adapter that releases automatically if someone accidentally trips on the cord.
+
+Built-in iSight camera
+
+Right out of the box, you can have a video chat with friends or family,2 record a video at your desk, or take fun pictures with Photo Booth
+2019-11-08 14:11:18 INFO  LogReporter:23 - STEP 11: Change the Quantity
+2019-11-08 14:11:20 INFO  LogReporter:23 - STEP 12: Click Add to Cart Button
+2019-11-08 14:11:20 INFO  LogReporter:23 - STEP 12:
+2019-11-08 14:11:20 INFO  LogReporter:23 - STEP 13:
+2019-11-08 14:11:20 INFO  LogReporter:23 - STEP 14:
+2019-11-08 14:11:20 INFO  LogReporter:23 - STEP 15:
+2019-11-08 14:11:21 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 14:11:21 INFO  LogReporter:23 - Document title is not match with Expected :MacBook
+2019-11-08 14:11:21 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 14:11:21 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 14:11:21 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 14:12:22 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 14:12:22 INFO  LogReporter:23 - Actual Value : 600 not match with the Expected value :null
+2019-11-08 14:12:22 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-08 14:12:22 INFO  LogReporter:23 - Actual Value :602.00 not match with the Expected value :null
+2019-11-08 14:12:22 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-08 14:12:23 INFO  LogReporter:23 - Actual Value :500. not match with the Expected value :null
+2019-11-08 14:12:23 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-08 14:12:23 INFO  LogReporter:23 - Actual Value :Intel Core 2 Duo processor
+Powered by an Intel Core 2 Duo processor at speeds up to 2.16GHz, the new MacBook is the fastest ever.
+1GB memory, larger hard drives
+The new MacBook now comes with 1GB of memory standard and larger hard drives for the entire line perfect for running more of your favorite applications and storing growing media collections.
+Sleek, 1.08-inch-thin design
+MacBook makes it easy to hit the road thanks to its tough polycarbonate case, built-in wireless technologies, and innovative MagSafe Power Adapter that releases automatically if someone accidentally trips on the cord.
+Built-in iSight camera
+Right out of the box, you can have a video chat with friends or family,2 record a video at your desk, or take fun pictures with Photo Booth not match with the Expected value :null
+2019-11-08 14:12:23 INFO  LogReporter:23 - STEP 11: Change the Quantity
+2019-11-08 14:12:24 INFO  LogReporter:23 - STEP 12: Click Add to Cart Button
+2019-11-08 14:12:25 INFO  LogReporter:23 - STEP 5: Searching the Productnull
+2019-11-08 14:12:26 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 14:13:22 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 14:13:26 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 14:13:27 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 14:13:28 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 14:13:28 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 14:13:28 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 14:13:28 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 14:13:28 INFO  LogReporter:23 - Actual Value : In Stock not match with the Expected value :null
+2019-11-08 14:13:28 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-08 14:13:29 INFO  LogReporter:23 - Actual Value :602.00 not match with the Expected value :null
+2019-11-08 14:13:29 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-08 14:13:29 INFO  LogReporter:23 - Actual Value :500. not match with the Expected value :null
+2019-11-08 14:13:29 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-08 14:13:30 INFO  LogReporter:23 - Actual Value :Intel Core 2 Duo processor
+Powered by an Intel Core 2 Duo processor at speeds up to 2.16GHz, the new MacBook is the fastest ever.
+1GB memory, larger hard drives
+The new MacBook now comes with 1GB of memory standard and larger hard drives for the entire line perfect for running more of your favorite applications and storing growing media collections.
+Sleek, 1.08-inch-thin design
+MacBook makes it easy to hit the road thanks to its tough polycarbonate case, built-in wireless technologies, and innovative MagSafe Power Adapter that releases automatically if someone accidentally trips on the cord.
+Built-in iSight camera
+Right out of the box, you can have a video chat with friends or family,2 record a video at your desk, or take fun pictures with Photo Booth not match with the Expected value :null
+2019-11-08 14:13:30 INFO  LogReporter:23 - STEP 11: Change the Quantity
+2019-11-08 14:13:30 INFO  LogReporter:23 - STEP 12: Click Add to Cart Button
+2019-11-08 14:13:31 INFO  LogReporter:23 - STEP 12:
+2019-11-08 14:13:31 INFO  LogReporter:23 - STEP 13:
+2019-11-08 14:13:31 INFO  LogReporter:23 - STEP 14:
+2019-11-08 14:13:31 INFO  LogReporter:23 - STEP 15:
+2019-11-08 14:13:32 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 14:13:32 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 14:13:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 14:13:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 14:13:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 14:13:32 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 14:13:37 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 14:13:37 INFO  LogReporter:23 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-08 14:13:37 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-08 14:13:38 INFO  LogReporter:23 - Actual Value :123.20 and Expected :123.20 is validated successfully
+2019-11-08 14:13:38 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-08 14:13:38 INFO  LogReporter:23 - Actual Value :101. and Expected :101. is validated successfully
+2019-11-08 14:13:38 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-08 14:13:38 INFO  LogReporter:23 - Actual Value :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. not match with the Expected value :
+ iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-08 14:13:38 INFO  LogReporter:23 - STEP 11: Change the Quantity
+2019-11-08 14:13:40 INFO  LogReporter:23 - STEP 12: Click Add to Cart Button
+2019-11-08 14:13:41 INFO  LogReporter:23 - STEP 5: Searching the Productmac book
+2019-11-08 14:13:45 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 14:13:48 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 14:13:48 INFO  LogReporter:23 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-08 14:13:48 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-08 14:13:49 INFO  LogReporter:23 - Actual Value :602.00 and Expected :602.00 is validated successfully
+2019-11-08 14:13:49 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-08 14:13:49 INFO  LogReporter:23 - Actual Value :500. and Expected :500. is validated successfully
+2019-11-08 14:13:49 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-08 14:13:50 INFO  LogReporter:23 - Actual Value :Intel Core 2 Duo processor
+Powered by an Intel Core 2 Duo processor at speeds up to 2.16GHz, the new MacBook is the fastest ever.
+1GB memory, larger hard drives
+The new MacBook now comes with 1GB of memory standard and larger hard drives for the entire line perfect for running more of your favorite applications and storing growing media collections.
+Sleek, 1.08-inch-thin design
+MacBook makes it easy to hit the road thanks to its tough polycarbonate case, built-in wireless technologies, and innovative MagSafe Power Adapter that releases automatically if someone accidentally trips on the cord.
+Built-in iSight camera
+Right out of the box, you can have a video chat with friends or family,2 record a video at your desk, or take fun pictures with Photo Booth not match with the Expected value :Intel Core 2 Duo processor
+
+Powered by an Intel Core 2 Duo processor at speeds up to 2.16GHz, the new MacBook is the fastest ever.
+
+1GB memory, larger hard drives
+
+The new MacBook now comes with 1GB of memory standard and larger hard drives for the entire line perfect for running more of your favorite applications and storing growing media collections.
+
+Sleek, 1.08-inch-thin design
+
+MacBook makes it easy to hit the road thanks to its tough polycarbonate case, built-in wireless technologies, and innovative MagSafe Power Adapter that releases automatically if someone accidentally trips on the cord.
+
+Built-in iSight camera
+
+Right out of the box, you can have a video chat with friends or family,2 record a video at your desk, or take fun pictures with Photo Booth
+2019-11-08 14:13:50 INFO  LogReporter:23 - STEP 11: Change the Quantity
+2019-11-08 14:13:52 INFO  LogReporter:23 - STEP 12: Click Add to Cart Button
+2019-11-08 14:13:52 INFO  LogReporter:23 - STEP 12:
+2019-11-08 14:13:52 INFO  LogReporter:23 - STEP 13:
+2019-11-08 14:13:52 INFO  LogReporter:23 - STEP 14:
+2019-11-08 14:13:52 INFO  LogReporter:23 - STEP 15:
+2019-11-08 14:13:53 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 14:13:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 14:13:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 14:13:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 14:13:53 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 14:14:37 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 14:14:40 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 14:14:42 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 14:14:42 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 14:14:42 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 14:14:42 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 14:14:45 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 14:14:49 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 14:14:50 INFO  LogReporter:23 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-08 14:14:50 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-08 14:14:50 INFO  LogReporter:23 - Actual Value :123.20 and Expected :123.20 is validated successfully
+2019-11-08 14:14:50 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-08 14:14:50 INFO  LogReporter:23 - Actual Value :101. and Expected :101. is validated successfully
+2019-11-08 14:14:50 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-08 14:14:51 INFO  LogReporter:23 - Actual Value :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. not match with the Expected value :
+ iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-08 14:14:51 INFO  LogReporter:23 - STEP 11: Change the Quantity
+2019-11-08 14:14:53 INFO  LogReporter:23 - STEP 12: Click Add to Cart Button
+2019-11-08 14:14:54 INFO  LogReporter:23 - STEP 5: Searching the Productmac book
+2019-11-08 14:14:57 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 14:15:01 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 14:15:01 INFO  LogReporter:23 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-08 14:15:01 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-08 14:15:02 INFO  LogReporter:23 - Actual Value :602.00 and Expected :602.00 is validated successfully
+2019-11-08 14:15:02 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-08 14:15:02 INFO  LogReporter:23 - Actual Value :500. and Expected :500. is validated successfully
+2019-11-08 14:15:02 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-08 14:15:02 INFO  LogReporter:23 - Actual Value :Intel Core 2 Duo processor
+Powered by an Intel Core 2 Duo processor at speeds up to 2.16GHz, the new MacBook is the fastest ever.
+1GB memory, larger hard drives
+The new MacBook now comes with 1GB of memory standard and larger hard drives for the entire line perfect for running more of your favorite applications and storing growing media collections.
+Sleek, 1.08-inch-thin design
+MacBook makes it easy to hit the road thanks to its tough polycarbonate case, built-in wireless technologies, and innovative MagSafe Power Adapter that releases automatically if someone accidentally trips on the cord.
+Built-in iSight camera
+Right out of the box, you can have a video chat with friends or family,2 record a video at your desk, or take fun pictures with Photo Booth not match with the Expected value :Intel Core 2 Duo processor
+
+Powered by an Intel Core 2 Duo processor at speeds up to 2.16GHz, the new MacBook is the fastest ever.
+
+1GB memory, larger hard drives
+
+The new MacBook now comes with 1GB of memory standard and larger hard drives for the entire line perfect for running more of your favorite applications and storing growing media collections.
+
+Sleek, 1.08-inch-thin design
+
+MacBook makes it easy to hit the road thanks to its tough polycarbonate case, built-in wireless technologies, and innovative MagSafe Power Adapter that releases automatically if someone accidentally trips on the cord.
+
+Built-in iSight camera
+
+Right out of the box, you can have a video chat with friends or family,2 record a video at your desk, or take fun pictures with Photo Booth
+2019-11-08 14:15:02 INFO  LogReporter:23 - STEP 11: Change the Quantity
+2019-11-08 14:15:05 INFO  LogReporter:23 - STEP 12: Click Add to Cart Button
+2019-11-08 14:15:05 INFO  LogReporter:23 - STEP 12:
+2019-11-08 14:15:08 INFO  LogReporter:23 - STEP 13:
+2019-11-08 14:15:08 INFO  LogReporter:23 - STEP 14:
+2019-11-08 14:15:08 INFO  LogReporter:23 - STEP 15:
+2019-11-08 14:15:09 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 14:15:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 14:15:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 14:15:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 14:15:09 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 14:16:35 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 14:16:38 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 14:16:39 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 14:16:39 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 14:16:39 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 14:16:39 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 14:16:43 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 14:16:47 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 14:16:47 INFO  LogReporter:23 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-08 14:16:47 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-08 14:16:48 INFO  LogReporter:23 - Actual Value :123.20 and Expected :123.20 is validated successfully
+2019-11-08 14:16:48 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-08 14:16:48 INFO  LogReporter:23 - Actual Value :101. and Expected :101. is validated successfully
+2019-11-08 14:16:48 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-08 14:16:49 INFO  LogReporter:23 - Actual Value :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. not match with the Expected value :
+ iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-08 14:16:49 INFO  LogReporter:23 - STEP 11: Change the Quantity
+2019-11-08 14:16:51 INFO  LogReporter:23 - STEP 12: Click Add to Cart Button
+2019-11-08 14:16:51 INFO  LogReporter:23 - STEP 5: Searching the Productmac book
+2019-11-08 14:16:55 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 14:16:58 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 14:16:59 INFO  LogReporter:23 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-08 14:16:59 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-08 14:16:59 INFO  LogReporter:23 - Actual Value :602.00 and Expected :602.00 is validated successfully
+2019-11-08 14:16:59 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-08 14:17:00 INFO  LogReporter:23 - Actual Value :500. and Expected :500. is validated successfully
+2019-11-08 14:17:00 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-08 14:17:00 INFO  LogReporter:23 - Actual Value :Intel Core 2 Duo processor
+Powered by an Intel Core 2 Duo processor at speeds up to 2.16GHz, the new MacBook is the fastest ever.
+1GB memory, larger hard drives
+The new MacBook now comes with 1GB of memory standard and larger hard drives for the entire line perfect for running more of your favorite applications and storing growing media collections.
+Sleek, 1.08-inch-thin design
+MacBook makes it easy to hit the road thanks to its tough polycarbonate case, built-in wireless technologies, and innovative MagSafe Power Adapter that releases automatically if someone accidentally trips on the cord.
+Built-in iSight camera
+Right out of the box, you can have a video chat with friends or family,2 record a video at your desk, or take fun pictures with Photo Booth not match with the Expected value :Intel Core 2 Duo processor
+
+Powered by an Intel Core 2 Duo processor at speeds up to 2.16GHz, the new MacBook is the fastest ever.
+
+1GB memory, larger hard drives
+
+The new MacBook now comes with 1GB of memory standard and larger hard drives for the entire line perfect for running more of your favorite applications and storing growing media collections.
+
+Sleek, 1.08-inch-thin design
+
+MacBook makes it easy to hit the road thanks to its tough polycarbonate case, built-in wireless technologies, and innovative MagSafe Power Adapter that releases automatically if someone accidentally trips on the cord.
+
+Built-in iSight camera
+
+Right out of the box, you can have a video chat with friends or family,2 record a video at your desk, or take fun pictures with Photo Booth
+2019-11-08 14:17:00 INFO  LogReporter:23 - STEP 11: Change the Quantity
+2019-11-08 14:17:02 INFO  LogReporter:23 - STEP 12: Click Add to Cart Button
+2019-11-08 14:17:03 INFO  LogReporter:23 - STEP 12:
+2019-11-08 14:17:07 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 14:17:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 14:17:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 14:17:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 14:17:07 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 14:19:08 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 14:19:13 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 14:19:14 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 14:19:14 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 14:19:14 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 14:19:14 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 14:19:17 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 14:19:20 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 14:19:22 INFO  LogReporter:23 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-08 14:19:22 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-08 14:19:23 INFO  LogReporter:23 - Actual Value :123.20 and Expected :123.20 is validated successfully
+2019-11-08 14:19:23 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-08 14:19:23 INFO  LogReporter:23 - Actual Value :101. and Expected :101. is validated successfully
+2019-11-08 14:19:23 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-08 14:19:24 INFO  LogReporter:23 - Actual Value :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. not match with the Expected value :
+ iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-08 14:19:24 INFO  LogReporter:23 - STEP 11: Change the Quantity
+2019-11-08 14:19:26 INFO  LogReporter:23 - STEP 12: Click Add to Cart Button
+2019-11-08 14:19:26 INFO  LogReporter:23 - STEP 5: Searching the Productmac book
+2019-11-08 14:19:30 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 14:19:34 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 14:19:34 INFO  LogReporter:23 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-08 14:19:34 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-08 14:19:34 INFO  LogReporter:23 - Actual Value :602.00 and Expected :602.00 is validated successfully
+2019-11-08 14:19:34 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-08 14:19:35 INFO  LogReporter:23 - Actual Value :500. and Expected :500. is validated successfully
+2019-11-08 14:19:35 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-08 14:19:35 INFO  LogReporter:23 - Actual Value :Intel Core 2 Duo processor
+Powered by an Intel Core 2 Duo processor at speeds up to 2.16GHz, the new MacBook is the fastest ever.
+1GB memory, larger hard drives
+The new MacBook now comes with 1GB of memory standard and larger hard drives for the entire line perfect for running more of your favorite applications and storing growing media collections.
+Sleek, 1.08-inch-thin design
+MacBook makes it easy to hit the road thanks to its tough polycarbonate case, built-in wireless technologies, and innovative MagSafe Power Adapter that releases automatically if someone accidentally trips on the cord.
+Built-in iSight camera
+Right out of the box, you can have a video chat with friends or family,2 record a video at your desk, or take fun pictures with Photo Booth not match with the Expected value :Intel Core 2 Duo processor
+
+Powered by an Intel Core 2 Duo processor at speeds up to 2.16GHz, the new MacBook is the fastest ever.
+
+1GB memory, larger hard drives
+
+The new MacBook now comes with 1GB of memory standard and larger hard drives for the entire line perfect for running more of your favorite applications and storing growing media collections.
+
+Sleek, 1.08-inch-thin design
+
+MacBook makes it easy to hit the road thanks to its tough polycarbonate case, built-in wireless technologies, and innovative MagSafe Power Adapter that releases automatically if someone accidentally trips on the cord.
+
+Built-in iSight camera
+
+Right out of the box, you can have a video chat with friends or family,2 record a video at your desk, or take fun pictures with Photo Booth
+2019-11-08 14:19:35 INFO  LogReporter:23 - STEP 11: Change the Quantity
+2019-11-08 14:19:37 INFO  LogReporter:23 - STEP 12: Click Add to Cart Button
+2019-11-08 14:19:38 INFO  LogReporter:23 - STEP 12:
+2019-11-08 14:19:42 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 14:19:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 14:19:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 14:19:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 14:19:42 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 14:22:39 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 14:22:43 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 14:22:44 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 14:23:16 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 14:23:20 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 14:23:21 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 14:23:21 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 14:23:21 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 14:23:21 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 14:23:25 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 14:23:55 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 14:24:26 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 14:24:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 14:24:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 14:24:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 14:24:26 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 14:24:27 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 14:24:31 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 14:24:32 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 14:24:32 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 14:24:32 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 14:24:32 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 14:24:35 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 14:24:39 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 14:24:40 INFO  LogReporter:23 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-08 14:24:40 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-08 14:24:40 INFO  LogReporter:23 - Actual Value :123.20 and Expected :123.20 is validated successfully
+2019-11-08 14:24:40 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-08 14:24:41 INFO  LogReporter:23 - Actual Value :101. and Expected :101. is validated successfully
+2019-11-08 14:24:41 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-08 14:24:41 INFO  LogReporter:23 - Actual Value :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. not match with the Expected value :
+ iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-08 14:24:41 INFO  LogReporter:23 - STEP 11: Change the Quantity
+2019-11-08 14:24:43 INFO  LogReporter:23 - STEP 12: Click Add to Cart Button
+2019-11-08 14:24:44 INFO  LogReporter:23 - STEP 5: Searching the Productmac book
+2019-11-08 14:24:47 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 14:24:51 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 14:24:51 INFO  LogReporter:23 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-08 14:24:51 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-08 14:24:52 INFO  LogReporter:23 - Actual Value :602.00 and Expected :602.00 is validated successfully
+2019-11-08 14:24:52 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-08 14:24:52 INFO  LogReporter:23 - Actual Value :500. and Expected :500. is validated successfully
+2019-11-08 14:24:52 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-08 14:24:52 INFO  LogReporter:23 - Actual Value :Intel Core 2 Duo processor
+Powered by an Intel Core 2 Duo processor at speeds up to 2.16GHz, the new MacBook is the fastest ever.
+1GB memory, larger hard drives
+The new MacBook now comes with 1GB of memory standard and larger hard drives for the entire line perfect for running more of your favorite applications and storing growing media collections.
+Sleek, 1.08-inch-thin design
+MacBook makes it easy to hit the road thanks to its tough polycarbonate case, built-in wireless technologies, and innovative MagSafe Power Adapter that releases automatically if someone accidentally trips on the cord.
+Built-in iSight camera
+Right out of the box, you can have a video chat with friends or family,2 record a video at your desk, or take fun pictures with Photo Booth not match with the Expected value :Intel Core 2 Duo processor
+
+Powered by an Intel Core 2 Duo processor at speeds up to 2.16GHz, the new MacBook is the fastest ever.
+
+1GB memory, larger hard drives
+
+The new MacBook now comes with 1GB of memory standard and larger hard drives for the entire line perfect for running more of your favorite applications and storing growing media collections.
+
+Sleek, 1.08-inch-thin design
+
+MacBook makes it easy to hit the road thanks to its tough polycarbonate case, built-in wireless technologies, and innovative MagSafe Power Adapter that releases automatically if someone accidentally trips on the cord.
+
+Built-in iSight camera
+
+Right out of the box, you can have a video chat with friends or family,2 record a video at your desk, or take fun pictures with Photo Booth
+2019-11-08 14:24:52 INFO  LogReporter:23 - STEP 11: Change the Quantity
+2019-11-08 14:24:55 INFO  LogReporter:23 - STEP 12: Click Add to Cart Button
+2019-11-08 14:24:55 INFO  LogReporter:23 - STEP 12:
+2019-11-08 14:24:59 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 14:24:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 14:24:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 14:24:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 14:24:59 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 14:27:07 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 14:27:12 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 14:27:13 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 14:27:46 INFO  LogReporter:35 - STEP 1: starting driver... browserName: IE
+2019-11-08 14:27:50 INFO  LogReporter:35 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-08 14:27:52 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-08 14:27:52 INFO  LogReporter:23 - Document title is validated :The Ninja Store
+2019-11-08 14:27:52 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-08 14:27:52 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-08 14:27:55 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 14:28:01 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 14:28:01 INFO  LogReporter:23 - Actual Value : 600 not match with the Expected value : In Stock
+2019-11-08 14:28:01 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-08 14:28:02 INFO  LogReporter:23 - Actual Value :602.00 not match with the Expected value :123.20
+2019-11-08 14:28:02 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-08 14:28:02 INFO  LogReporter:23 - Actual Value :500. not match with the Expected value :101.
+2019-11-08 14:28:02 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-08 14:28:03 INFO  LogReporter:23 - Actual Value :Intel Core 2 Duo processor
+Powered by an Intel Core 2 Duo processor at speeds up to 2.16GHz, the new MacBook is the fastest ever.
+1GB memory, larger hard drives
+The new MacBook now comes with 1GB of memory standard and larger hard drives for the entire line perfect for running more of your favorite applications and storing growing media collections.
+Sleek, 1.08-inch-thin design
+MacBook makes it easy to hit the road thanks to its tough polycarbonate case, built-in wireless technologies, and innovative MagSafe Power Adapter that releases automatically if someone accidentally trips on the cord.
+Built-in iSight camera
+Right out of the box, you can have a video chat with friends or family,2 record a video at your desk, or take fun pictures with Photo Booth not match with the Expected value :
+ iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-08 14:28:03 INFO  LogReporter:23 - STEP 11: Change the Quantity
+2019-11-08 14:28:06 INFO  LogReporter:23 - STEP 12: Click Add to Cart Button
+2019-11-08 14:28:06 INFO  LogReporter:23 - STEP 5: Searching the Productmac book
+2019-11-08 14:28:14 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-08 14:28:21 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-08 14:28:22 INFO  LogReporter:23 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-08 14:28:22 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-08 14:28:22 INFO  LogReporter:23 - Actual Value :602.00 and Expected :602.00 is validated successfully
+2019-11-08 14:28:22 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-08 14:28:23 INFO  LogReporter:23 - Actual Value :500. and Expected :500. is validated successfully
+2019-11-08 14:28:23 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-08 14:28:24 INFO  LogReporter:23 - Actual Value :Intel Core 2 Duo processor
+Powered by an Intel Core 2 Duo processor at speeds up to 2.16GHz, the new MacBook is the fastest ever.
+1GB memory, larger hard drives
+The new MacBook now comes with 1GB of memory standard and larger hard drives for the entire line perfect for running more of your favorite applications and storing growing media collections.
+Sleek, 1.08-inch-thin design
+MacBook makes it easy to hit the road thanks to its tough polycarbonate case, built-in wireless technologies, and innovative MagSafe Power Adapter that releases automatically if someone accidentally trips on the cord.
+Built-in iSight camera
+Right out of the box, you can have a video chat with friends or family,2 record a video at your desk, or take fun pictures with Photo Booth not match with the Expected value :Intel Core 2 Duo processor
+
+Powered by an Intel Core 2 Duo processor at speeds up to 2.16GHz, the new MacBook is the fastest ever.
+
+1GB memory, larger hard drives
+
+The new MacBook now comes with 1GB of memory standard and larger hard drives for the entire line perfect for running more of your favorite applications and storing growing media collections.
+
+Sleek, 1.08-inch-thin design
+
+MacBook makes it easy to hit the road thanks to its tough polycarbonate case, built-in wireless technologies, and innovative MagSafe Power Adapter that releases automatically if someone accidentally trips on the cord.
+
+Built-in iSight camera
+
+Right out of the box, you can have a video chat with friends or family,2 record a video at your desk, or take fun pictures with Photo Booth
+2019-11-08 14:28:24 INFO  LogReporter:23 - STEP 11: Change the Quantity
+2019-11-08 14:28:28 INFO  LogReporter:23 - STEP 12: Click Add to Cart Button
+2019-11-08 14:28:29 INFO  LogReporter:23 - STEP 12:
+2019-11-08 14:28:33 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-08 14:28:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-08 14:28:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-08 14:28:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-08 14:28:33 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

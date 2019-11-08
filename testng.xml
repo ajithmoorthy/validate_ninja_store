@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="5" name="Suite" parallel="tests">
+	<listeners>
+		<listener class-name="com.atmecs.validate_ninja_store.extentreport.ExtentReportGenerater"></listener>
+	</listeners>
+	<suite-files>
+		<suite-file path="./src/test/resources/suitefiles/suite.xml" />
+	</suite-files>
+</suite>
